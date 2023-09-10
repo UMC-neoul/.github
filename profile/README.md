@@ -17,6 +17,7 @@
 
 
 ## 💻 App Preview
+<img src="https://user-images.githubusercontent.com/92140163/266817612-c079bccf-8c3d-47ca-a32f-1b213f587f92.png" width="600" height="">
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/92140163/266815317-127c18ec-859c-4c28-8354-57afeac27423.png" width="156" height="300"></td>
