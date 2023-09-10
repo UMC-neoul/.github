@@ -17,10 +17,18 @@
 
 
 ## 💻 App Preview
-<img src="https://user-images.githubusercontent.com/92140163/266815317-127c18ec-859c-4c28-8354-57afeac27423.png" width="156" height="300">
-<img src="https://user-images.githubusercontent.com/92140163/266815325-487538d6-073c-4135-bb34-2b5872b4da38.png" width="150" height="300">
-<img src="https://user-images.githubusercontent.com/92140163/266815331-c7ffe3c4-fbf4-4972-96d2-8a7dc98439d4.png" width="155" height="310">
-<img src="https://user-images.githubusercontent.com/92140163/266815338-9638f910-3397-41b0-b16b-a0b61094e132.png" width="155" height="310">
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/92140163/266815317-127c18ec-859c-4c28-8354-57afeac27423.png" width="156" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/92140163/266815325-487538d6-073c-4135-bb34-2b5872b4da38.png" width="150" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/92140163/266815331-c7ffe3c4-fbf4-4972-96d2-8a7dc98439d4.png" width="155" height="310"></td>
+    <td><img src="https://user-images.githubusercontent.com/92140163/266815338-9638f910-3397-41b0-b16b-a0b61094e132.png" width="155" height="310"></td>
+  </tr>
+</table>
+
+
+
+
 
 
 ## 🛠️ Tech Stack
